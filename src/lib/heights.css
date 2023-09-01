@@ -1,0 +1,79 @@
+/* TODO: when adding more photos the height needs to be set
+ * with the mansonry style it cant be automatically detected or set
+ * I took the line between (1430px, [set height]) and (1000px, [set height])
+ * but anypoints would work as long as they arent too close together
+ * y = mx + b
+ * [screen height in pixels] = m * [100% of screen height] + [pixel height] */
+
+.s2022 {
+    height: calc((5.035 * 100vw) + 120px);
+}
+
+.s2021 {
+    height: calc((1.9814 * 100vw) + 7px);
+}
+
+.s2020 {
+    height: calc((1.6334 * 100vw) + 10px);
+}
+
+.s2019 {
+    height: calc((1.5164 * 100vw) + 38px);
+}
+
+.s2018 {
+    height: calc((1.563 * 100vw) + 2px);
+}
+
+.s2017 {
+    height: calc((1.0477 * 100vw) + 105px);
+}
+
+.s2016 {
+    height: calc((0.5128 * 100vw) + 37px);
+}
+
+.s2015 {
+    height: calc((1.7483 * 100vw) + 60px);
+}
+
+/* season had like 2 photos that i could find so im just not going to bother */
+/* .s2014 {
+    height: 1000px;
+} */
+
+.s2013 {
+    height: calc((1.8648 * 100vw) + 83px);
+}
+
+.s2012 {
+    height: calc((2.3776 * 100vw) + 60px);
+}
+
+.s2011 {
+    height: calc((2.2145 * 100vw) + 53px);
+}
+
+.s2010 {
+    height: calc((1.6783 * 100vw) + 50px);
+}
+
+.s2009 {
+    height: calc((1.6084 * 100vw) + 60px);
+}
+
+.s2008 {
+    height: 0px;
+}
+
+.s2007 {
+    height: calc((0.4196 * 100vw) + 40px);
+}
+
+.s2006 {
+    height: 100vw;
+}
+
+.sponsors {
+    
+}
